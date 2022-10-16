@@ -1,0 +1,13 @@
+.grey
+{
+    color: gray;
+    font-size: 1rem;
+}
+body
+{
+    padding-top: 50px;
+}
+.center
+{
+    margin: auto;
+}
